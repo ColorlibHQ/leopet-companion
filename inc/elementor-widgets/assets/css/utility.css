@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.leopet-pt-100 {
+    padding-top: 100px;
+}
+.leopet-pt-80 {
+    padding-top: 80px;
+}
+.leopet-pt-70 {
+    padding-top: 70px;
+}
+.leopet-pt-60 {
+    padding-top: 60px;
+}
+.leopet-pt-50 {
+    padding-top: 50px;
+}
+.leopet-pt-30 {
+    padding-top: 30px;
+}
+.leopet-pb-100 {
+    padding-bottom: 100px;
+}
+.leopet-pb-80 {
+    padding-bottom: 80px;
+}
+.leopet-pb-70 {
+    padding-bottom: 70px;
+}
+.leopet-pb-60 {
+    padding-bottom: 60px;
+}
+.leopet-pb-50 {
+    padding-bottom: 50px;
+}
+.leopet-pb-30 {
+    padding-bottom: 30px;
+}
